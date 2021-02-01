@@ -5,6 +5,10 @@ This is a repo for submissions of tasks that are assigned under workshops carrie
 
 ### How to submit entries
 
-Pretty simple!
-Just enter the required task directory for the day, which are quite understandable by the name itself.
-For eg. For tasks assigned under Day 1- could be found under the 'Day1' directory and under that a bunch of directories mentioning the task assigned.
+Under the issues section from the tabs above, you can find tasks that are assigned.
+Find the task and submit your entries as comments there.
+Submissions are only accepted in the form of .png of .fig file links, other submissions will be not considered.
+
+### Questions? Doubts?
+
+Connect us here at the discord server. We'll reach you at our best 😉 
