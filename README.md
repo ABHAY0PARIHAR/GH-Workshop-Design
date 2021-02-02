@@ -11,4 +11,4 @@ Submissions are only accepted in the form of .png of .fig file links, other subm
 
 ### Questions? Doubts?
 
-Connect us here at the discord server. We'll reach you at our best 😉 
+Connect us at the discord server. We'll reach you at our best 😉 
